@@ -84,10 +84,10 @@ const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A
 
 let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.genero == 'Ocultado 🕶️' ? `🕶️` : user.genero == 'Mujer 🚺' ? `🚺` : user.genero == 'Hombre 🚹' ? `🚹` : '👤'} ${user.registered === true ? user.name : username}*${(conn.user.jid == global.conn.user.jid ? '' : `\n*SOY SUB BOT DE: https://wa.me/${global.conn.user.jid.split`@`[0]}*`) || ''}
 
-*〔 Diaz Bot 〕*
+*〔 HEIMY BOT 〕*
 
-*╭━〔 DIAZ BOT 〕━⬣*
- ┃👤 Creador : Diaz Bot
+*╭━〔 BOT DE HEIMY 〕━⬣*
+ ┃👤 Creador : Diaz 
  ┃📱 Numero : +57 323 4231940
  ┃🤑 Adquirir Bot Propio : +57 323 423 1940
  ┃👻 Ig : ${md}
@@ -100,7 +100,7 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃⊜ Tokens ➟ ${joincount} 🪙
 *╰━━━━━━━━━━━━⬣*
 
-*╭━〔 INFORMACIÓN DE DIAZ BOT 〕⬣*
+*╭━〔 INFORMACIÓN DE HEIMY BOT 〕⬣*
 ┃💫➺ _${usedPrefix}cuentasbot_
 ┃💫➺ _${usedPrefix}gruposbot_
 ┃💫➺ _${usedPrefix}estado_
