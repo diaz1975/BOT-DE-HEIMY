@@ -14,7 +14,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
 ["573234231940", '𝗗𝗶𝗮𝘇 𝗕𝗼𝘁🥷🏻', true], //𝗗𝗶𝗮𝘇 𝗕𝗼𝘁🥷🏻
-["51981983121"]]
+["573126273544"]]
 
 global.mods = []
 global.prems = []
@@ -104,7 +104,7 @@ global.moment = moment
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
 ["573234231940", '𝗗𝗶𝗮𝘇 𝗕𝗼𝘁🥷🏻', 1], 
-["51981983121", '𝗗𝗶𝗮𝘇 𝗕𝗼𝘁🥷🏻', 1]]
+["573126273544", '𝗗𝗶𝗮𝘇 𝗕𝗼𝘁🥷🏻', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -112,8 +112,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "𝗗𝗶𝗮𝘇 𝗕𝗼𝘁🥷🏻"
-global.author = "𝗗𝗶𝗮𝘇 𝗕𝗼𝘁🥷🏻"
+global.packname = "𝘽𝙤𝙩 𝘿𝙚 𝙃𝙚𝙞𝙢𝙮 👑"
+global.author = "𝗗𝗶𝗮𝘇 🥷🏻"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > CUENTAS E INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -121,7 +121,7 @@ global.author = "𝗗𝗶𝗮𝘇 𝗕𝗼𝘁🥷🏻"
 // [EN] > ACCOUNTS AND BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
-global.gt = "𝗗𝗶𝗮𝘇 𝗕𝗼𝘁🥷🏻"
+global.gt = "𝘽𝙤𝙩 𝘿𝙚 𝙃𝙚𝙞𝙢𝙮 👑"
 
 global.yt = "https://www.instagram.com/whoisdiax.d"
 global.yt2 = "https://www.instagram.com/whoisdiax.d"
@@ -170,8 +170,8 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝗗𝗶𝗮𝘇 𝗕𝗼𝘁🥷🏻"
-global.igfg = "𝗗𝗶𝗮𝘇 𝗕𝗼𝘁🥷🏻"
+global.wm = "𝘽𝙤𝙩 𝘿𝙚 𝙃𝙚𝙞𝙢𝙮 👑"
+global.igfg = "𝘽𝙤𝙩 𝘿𝙚 𝙃𝙚𝙞𝙢𝙮 👑"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
