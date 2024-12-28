@@ -12,9 +12,9 @@ const handler = async (m, {isOwner, isAdmin, conn, text, participants, args, com
   const oi = `${pesan}`;
   let teks = `╭─────────\n│❏ 𝘽𝙤𝙩 𝘿𝙚 𝙃𝙚𝙞𝙢𝙮 👑\n│❏ 𝗠𝗶𝗲𝗺𝗯𝗿𝗼𝘀 : *${participants.length}* ${oi}\n│❏ 𝗩𝗲𝗻𝘁𝗮 𝗗𝗲 𝗕𝗼𝘁 𝗔𝗹 +57 323 423 1940\n│\n`;
   for (const mem of participants) {
-    teks += `│🥷🏻 @${mem.id.split('@')[0]}\n`;
+    teks += `│👑 @${mem.id.split('@')[0]}\n`;
   }
-  teks += `│\n╰@whoisdiax.d`;
+  teks += `│\n╰@best.diazzz`;
   conn.sendMessage(m.chat, {text: teks, mentions: participants.map((a) => a.id)} );
 };
 handler.help = ['tagall <mesaje>', 'invocar <mesaje>'];
